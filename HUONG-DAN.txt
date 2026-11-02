@@ -1,0 +1,8 @@
+BẢN CÀI ĐẶT ĐẦY ĐỦ – KINH CHÁNH TINH TẤN ENGLISH
+
+Thư mục này là app hoàn chỉnh (chấm phát âm bằng micro, dùng được khi không có mạng, cài lên màn hình chính).
+Cần đặt thư mục lên một trang web có địa chỉ https, ví dụ:
+  • GitHub Pages: tạo kho mới, tải tất cả các file trong thư mục này lên, bật Pages.
+  • Netlify Drop (app.netlify.com/drop): kéo thả cả thư mục vào trang.
+Sau đó mở địa chỉ trang bằng Chrome trên điện thoại Android → nút ⋮ → "Thêm vào màn hình chính" (hoặc "Cài đặt ứng dụng").
+Lần đầu dùng micro, Chrome sẽ hỏi quyền – chọn Cho phép. Chấm phát âm cần có mạng; các phần khác chạy được khi không có mạng.

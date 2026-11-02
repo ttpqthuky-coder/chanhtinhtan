@@ -1,0 +1,22 @@
+{
+ "name": "Kinh Chánh Tinh Tấn English",
+ "short_name": "Chánh Tinh Tấn",
+ "start_url": "./index.html",
+ "display": "standalone",
+ "background_color": "#F1F4EE",
+ "theme_color": "#A85A0A",
+ "lang": "vi",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
